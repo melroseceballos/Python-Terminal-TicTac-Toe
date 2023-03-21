@@ -4,7 +4,7 @@
 
 ## Getting Started
 - Fork and clone this repo.
-- Build your game logic in `app.py`.
+- Build your game logic in `app.py`. A few lines are included already for you. The native `os` Python package was imported into your project and you can now use `os.system('clear')` throughout your program to clear your terminal screen.
 - Keep your code neat, organized, and commented. This will help you understand what's happening and quickly find different sections of your game logic.
 - Use the user stories below to guide you as you build the game that meets the user's needs.
 
