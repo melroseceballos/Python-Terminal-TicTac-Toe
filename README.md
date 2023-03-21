@@ -1,4 +1,4 @@
-# Terminal Tic-Tact-Toe with Python
+# Terminal Tic-Tac-Toe with Python
 <p align="center"><img src="./repo_banner.png" /></p>
 
 
