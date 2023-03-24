@@ -68,7 +68,8 @@ board[0][0]==board[1][1]==board[2][2]=='O' or
 board[0][2]==board[1][1]==board[2][0]=='O'):
         print('Player O wins!')
         break
-         # PROMPT IF PLAYERS CHOOSE SAME NUMBER
+    
+ # PROMPT IF PLAYERS CHOOSE SAME NUMBER
     if player_x == player_o:
         print('Player O: Number already chosen by Player X, please choose a different number')
     elif player_o == player_x:
